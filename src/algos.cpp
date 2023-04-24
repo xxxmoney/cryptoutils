@@ -1,5 +1,5 @@
 #include "algos.h"
-
+#include <array>
 #include <iostream>
 #include <cmath>
 #include <utility>
